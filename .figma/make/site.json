@@ -1,0 +1,10 @@
+{
+  "description": "Engage users with a 16-card memory game featuring core values and images to promote learning and reflection through interactive gamification.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
